@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alzahrahalees
-- 👀 I’m interested in flutter framework
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in javascript and NodeJs
+- 🌱 I’m currently learning React
 
 - 📫 You can reah me via Email: alzahraalhalees@gmail.com
 
